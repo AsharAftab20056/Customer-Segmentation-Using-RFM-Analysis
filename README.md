@@ -47,7 +47,7 @@ RFM helps businesses understand how recently customers purchased, how often they
 
 ### 🔥 Average RFM Metrics by Segment 
  
-![RFM Heatmap](Pics/screenshot_2.PNG)  
+![RFM Heatmap](Pic/screenshot_2.PNG)  
 
 ## 🛠️ Tools & Libraries
 
@@ -87,9 +87,10 @@ RFM helps businesses understand how recently customers purchased, how often they
    cd Customer-RFM-Analysis
 
 2. Install dependencies
+    ```bash
    pip install -r requirements.txt
 
-3. Open Jupyter Notebook and run
+4. Open Jupyter Notebook and run
    jupyter notebook RFM_Analysis.ipynb
 
 
@@ -114,6 +115,7 @@ Click Here to Get Dataset: https://drive.google.com/file/d/1XFs6_s2aLi88dAJr7sPC
 ---
 
 > If you found this project useful or insightful, consider giving it a ⭐ on GitHub!
+
 
 
 
